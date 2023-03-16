@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bwimage",
+    "oncran": true
+  },
+  {
+    "package": "GenTag",
+    "oncran": true
+  }
+]
