@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bwimage"]
-	path = bwimage
-	url = https://github.com/biagolini/bwimage
 [submodule "GenTag"]
 	path = GenTag
 	url = https://github.com/biagolini/gentag
+[submodule "bwimage"]
+	path = bwimage
+	url = https://github.com/biagolini/bwimage
